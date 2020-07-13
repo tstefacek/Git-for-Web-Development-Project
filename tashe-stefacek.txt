@@ -78,7 +78,7 @@ https://codepen.io/tashe-stefacek/pen/xxZzxVd?editors=1100
 	git push -u origin branch-name
     37. Walk me through Lambda's git flow. 
 	Fork/Add TL as a collaborator/Clone repo/Create branch/Create pull request/
-	Add TL as reviewer
+	Add your TL as reviewer
 
 Stretch Questions
 

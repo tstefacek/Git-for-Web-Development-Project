@@ -1,4 +1,4 @@
-https://codepen.io/tashe-stefacek/pen/xxZzxVd?editors=1100
+https://codepen.io/tashe-stefacek/pen/xxZzxVd
 
     1. What is Semantic HTML? 
 	Refers to tags that have meaning; you know what they do/are for just by reading them.

@@ -1,4 +1,4 @@
-https://codepen.io/tashe-stefacek/pen/xxZzxVd
+https://codepen.io/tashe-stefacek/pen/xxZzxVd?editors=1100
 
     1. What is Semantic HTML? 
 	Refers to tags that have meaning; you know what they do/are for just by reading them.
@@ -83,7 +83,10 @@ https://codepen.io/tashe-stefacek/pen/xxZzxVd
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+	A block-level HTML element will always create a new line after the closing tag, whereas an inline HTML element will not.
     2. What happens when an element is positioned absolutely? 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+	An absolutely positioned element is relative to its parent. It'll be removed from the flow of the document, and will position 
+	in the top-left corner of its parent element.
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 	
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
